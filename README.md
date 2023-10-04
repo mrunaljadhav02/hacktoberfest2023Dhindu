@@ -1,4 +1,4 @@
-# FOSSALGO
+# 
 
 ![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%92%9B-cyan.svg?style=flat)
 [![Hacktoberfest](https://img.shields.io/badge/Hacktoberfest-friendly-%23FF69B4.svg?style=flat)](https://hacktoberfest.digitalocean.com/)
